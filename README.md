@@ -1,3 +1,5 @@
 # HELLO WORLD!
 
 I stude in NETOLOGY
+
+24.03.2025
