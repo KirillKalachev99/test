@@ -3,5 +3,3 @@
 I study in NETOLOGY
 
 24.03.2025
-
-TUT PIZDEC
